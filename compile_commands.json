@@ -1,57 +1,69 @@
 [{
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo3\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo3",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo3\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo3",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo4\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo4",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo4\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo1\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo1",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo1\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo5\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo5",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo5\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo2\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo2",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo2\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo4",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo6\\main.cpp",
-  "directory": "C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo6",
-  "command": "clang++ -c C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo6\\main.cpp -o C:\\Users\\caice\\OneDrive\\Documentos\\Ejemplos\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo5",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo6",
+  "command": "clang++ -c C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp -o C:\\Users\\HP\\Documents\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

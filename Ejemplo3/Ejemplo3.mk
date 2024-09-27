@@ -6,16 +6,16 @@
 ProjectName            :=Ejemplo3
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=C:/Users/caice/OneDrive/Documentos/Ejemplos
-ProjectPath            :=C:/Users/caice/OneDrive/Documentos/Ejemplos/Ejemplo3
+WorkspacePath          :=C:/Users/HP/Documents/EstructuraDeDatosCloud
+ProjectPath            :=C:/Users/HP/Documents/EstructuraDeDatosCloud/Ejemplo3
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo3
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
-User                   :=David
-Date                   :=9/26/2024
-CodeLitePath           :=C:/Users/caice/OneDrive/Escritorio/codelite/codelite-amd64-17.0.0/codelite
+User                   :=HP
+Date                   :=9/27/2024
+CodeLitePath           :=C:/Users/HP/Desktop/codelite-amd64-17.0.0/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
 SharedObjectLinkerName :=g++ -shared -fPIC
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/caice/OneDrive/Documentos/Ejemplos/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/HP/Documents/EstructuraDeDatosCloud/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -63,7 +63,7 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=C:\Users\caice\OneDrive\Escritorio\codelite\codelite-amd64-17.0.0\codelite
+CodeLiteDir:=C:\Users\HP\Desktop\codelite-amd64-17.0.0\codelite-amd64-17.0.0\codelite
 Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/caice/OneDrive/Documentos/Ejemplos/Ejemplo3/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/HP/Documents/EstructuraDeDatosCloud/Ejemplo3/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

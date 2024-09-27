@@ -6,8 +6,19 @@
     <Project Name="Ejemplo3" Path="Ejemplo3/Ejemplo3.project" Active="No"/>
     <Project Name="Ejemplo4" Path="Ejemplo4/Ejemplo4.project" Active="No"/>
     <Project Name="Ejemplo5" Path="Ejemplo5/Ejemplo5.project" Active="No"/>
-    <Project Name="Ejemplo6" Path="Ejemplo6/Ejemplo6.project" Active="Yes"/>
+    <Project Name="Ejemplo6" Path="Ejemplo6/Ejemplo6.project" Active="No"/>
   </VirtualDirectory>
+  <VirtualDirectory Name="EjemplosSesion1">
+    <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
+    <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project" Active="No"/>
+    <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
+    <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project" Active="No"/>
+    <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
+    <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="No"/>
+    <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project" Active="No"/>
+    <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="Yes"/>
+  </VirtualDirectory>
+  <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +36,7 @@
       <Project Name="Ejemplo4" ConfigName="Debug"/>
       <Project Name="Ejemplo5" ConfigName="Debug"/>
       <Project Name="Ejemplo6" ConfigName="Debug"/>
+      <Project Name="Ejemplo12" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -42,16 +54,7 @@
       <Project Name="Ejemplo4" ConfigName="Release"/>
       <Project Name="Ejemplo5" ConfigName="Release"/>
       <Project Name="Ejemplo6" ConfigName="Release"/>
+      <Project Name="Ejemplo12" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
-  <VirtualDirectory Name="EjemplosSesion1">
-    <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
-    <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project" Active="No"/>
-    <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
-    <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project" Active="No"/>
-    <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
-    <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="No"/>
-    <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project" Active="No"/>
-    <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="No"/>
-  </VirtualDirectory>
 </CodeLite_Workspace>
