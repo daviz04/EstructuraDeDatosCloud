@@ -1,11 +1,12 @@
 #include "Cola.hpp"
+#include "Persona.hpp"
 
 Cola::Cola(){
 	primero = NULL;
 	ultimo = NULL;
 	longitud = 0;
 }
-void Cola::insertar(int v){
+void Cola::insertar(Persona v){
 	pnodoCola nuevo;
 	nuevo = new NodoCola(v);
 	if(ultimo){

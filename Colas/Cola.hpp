@@ -1,11 +1,12 @@
 #include "NodoCola.hpp"
+#include "Persona.hpp"
 
 class Cola{
 public:
 	Cola();
 	~Cola();
 	
-	void insertar(int v);
+	void insertar(Persona v);
 	int eliminar();
 	void mostrar();
 	int verPrimero();

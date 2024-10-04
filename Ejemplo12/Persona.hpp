@@ -11,5 +11,7 @@ public:
 private:
  bool genero;
  int edad;
- char dni[10];
+ char DNI[10];
+ 
+ void generarDNI();
 };

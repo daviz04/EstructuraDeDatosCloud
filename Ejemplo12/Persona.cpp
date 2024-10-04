@@ -9,12 +9,7 @@ using namespace std;
 Persona::Persona(int edad){
 	this->edad = edad;
 	this->genero = rand() % 2;
-	
-	int numDni = 100000000 + (rand() % 900000000);        //Numero de dni de 9 digitos
-	char letra = ('A' + (rand() % 26));                    //Inicializar letra mayuscula
-	std::string dni = std::to_string(numDni) + letra;    //string con los numeros y la letra
-	strncpy(this->dni, dni.c_str(), sizeof(this->dni));  //Pasar la cadena al char
-	this->dni[sizeof(this->dni)] = '\0';                 //Eliminar caracteres a partir del numero 9 (10º caracter)
+	this->generarDNI();               //Eliminar caracteres a partir del numero 9 (10º caracter)
 }
 
 Persona::~Persona(){
@@ -29,12 +24,26 @@ bool Persona::esMujer(){
 	return this->genero;
 }
 
-void Persona::setEdad(int NuevaEdad){
-	this->edad = NuevaEdad;
+void Persona::setEdad(int edad){
+	this->edad = edad;
 }
 
 void Persona::mostrar(){
-	cout << "DNI: " << dni << endl;
+	cout << "DNI: " << DNI << endl;
     cout << "Genero: " << (genero ? "Mujer" : "Hombre") << endl;
     cout << "Edad: " << edad << endl;
 }
+
+void Persona::generarDNI(){
+	char letras[] = "QWERTYUIOPLKJHGFDSAZXCVBNM";
+	int numDNI =0, aux = 1E7;
+	for (int i = 0; i < 8; i++){
+		int num = rand() % 10;
+		this ->DNI[i] = '0' + num;
+		numDNI = numDNI + num * aux;
+		aux /= 10;
+	}
+	this->DNI[8] = letras[numDNI % 23];
+	this->DNI[9] = '\0';
+}
+

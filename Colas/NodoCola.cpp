@@ -1,6 +1,7 @@
 #include "NodoCola.hpp"
+#include "Persona.hpp"
 
-NodoCola::NodoCola(int v, NodoCola* sig){
+NodoCola::NodoCola(Persona v, NodoCola* sig){
 	valor = v;
 	siguiente = sig;
 }

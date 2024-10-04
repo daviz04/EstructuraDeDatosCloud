@@ -1,44 +1,29 @@
-#include <stdio.h>
+#include <algorithm>
 #include "Persona.hpp"
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
+#include "iostream"
 
-bool edadExistente(int edades[], int tam, int edad) {
-    for (int i = 0; i < tam; i++) {
-        if (edades[i] == edad) {
-            return true;
-        }
-    }
-    return false;
-}
+using namespace std;
 
-
-
-int main(int argc, char **argv)
-{
-    srand(time(0));  
-
-    Persona* personas[10];
-    int edades[10];
-    int edad;
-
-    for (int i = 0; i < 10; i++) {
-        do {
-            edad = 18 + rand() % 10;
-        } while (edadExistente(edades, i, edad));
-
-        edades[i] = edad;
-        personas[i] = new Persona(edad);
-    }
-
-    for (int i = 0; i < 10; i++) {
-        personas[i]->mostrar();
-    }
-
-    for (int i = 0; i < 10; i++) {
-        delete personas[i];
-    }
-
-    return 0;
+int main(int argc, char **argv){
+    int n = 10;
+	int a[n];
+	cout << "Array de edades ordenado:" << endl;
+	for (int i = 0; i < n; i++){
+		a[i] = i + 18; //18 -> 27
+		cout << a[i] << " ";
+	}
+	
+	cout << endl << endl;
+	cout << "Array de edades desordenado:" << endl;
+	random_shuffle(a, a + n);
+	for(int i = 0; i < n; ++i){
+		cout << a[i] << " ";
+	}
+	cout << endl << endl;
+	for(int i = 0; i < n; ++i){
+		Persona* p = new Persona(a[i]);
+		p->mostrar();
+	}
+	cout << endl;
+	return 0;
 }
