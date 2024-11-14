@@ -1,109 +1,197 @@
 [{
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\Pila.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\Pila.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\Pila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\Pila.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.hpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.hpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\Pila.hpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\Pila.hpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\Pila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\Pila.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Pilas\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Pilas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo08",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo07",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\Cola.hpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\Cola.hpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\Cola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Cola.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Cola.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoCola.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoCola.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.hpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.hpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Proceso.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Proceso.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Proceso.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\Cola.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\Cola.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\Cola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Gestor.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Gestor.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Gestor.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Colas\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoLista.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoLista.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoLista.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo06",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Lista.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Lista.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Lista.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo05",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Pila.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Pila.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo01",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo03",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoPila.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoPila.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo3",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Cola.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Cola.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo02",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Proceso.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Proceso.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Proceso.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo04",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Lista.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Lista.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Lista.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo4",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoPila.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoPila.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo1",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Gestor.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Gestor.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Gestor.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo5",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoLista.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoLista.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoLista.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo2",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoCola.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoCola.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp",
-  "directory": "C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo6",
-  "command": "clang++ -c \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp\" -o \"C:\\Users\\UAH\\Documents\\Estructuras de datos\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Pila.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Pila.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\PECLRomanPerezMiguel\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\Cola.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\Cola.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Colas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo3",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo4",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo5",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\Arbol.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\ABB1",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\Arbol.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\Arbol.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\NodoArbol.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\ABB1",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\NodoArbol.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\NodoArbol.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\NodoArbol.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\ABB1",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\NodoArbol.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\NodoArbol.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\ABB1",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\Arbol.hpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\ABB1",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\Arbol.hpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\ABB\\ABB\\Arbol.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo6",
+  "command": "clang++ -c C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp -o C:\\Users\\UAH\\Documents\\Estructuras_de_datos\\EstructuraDeDatosCloud\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

@@ -21,8 +21,10 @@
   <Project Name="Ejemplo13" Path="Ejemplo12/Ejemplo12.project" Active="No"/>
   <VirtualDirectory Name="EjemplosSesion3">
     <Project Name="Pilas" Path="Pilas/Pilas.project" Active="No"/>
-    <Project Name="Colas" Path="Colas/Colas.project" Active="Yes"/>
+    <Project Name="Colas" Path="Colas/Colas.project" Active="No"/>
   </VirtualDirectory>
+  <Project Name="PECLRomanPerezMiguel" Path="PECLRomanPerezMiguel/PECLRomanPerezMiguel.project" Active="No"/>
+  <Project Name="ABB1" Path="ABB1/ABB1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -43,6 +45,9 @@
       <Project Name="Ejemplo13" ConfigName="Debug"/>
       <Project Name="Pilas" ConfigName="Debug"/>
       <Project Name="Colas" ConfigName="Debug"/>
+      <Project Name="PECLRomanPerezMiguel" ConfigName="Debug"/>
+      <Project Name="ABB" ConfigName="Debug"/>
+      <Project Name="ABB1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -63,6 +68,9 @@
       <Project Name="Ejemplo13" ConfigName="Release"/>
       <Project Name="Pilas" ConfigName="Release"/>
       <Project Name="Colas" ConfigName="Release"/>
+      <Project Name="PECLRomanPerezMiguel" ConfigName="Release"/>
+      <Project Name="ABB" ConfigName="Release"/>
+      <Project Name="ABB1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

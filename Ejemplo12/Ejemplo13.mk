@@ -6,16 +6,16 @@
 ProjectName            :=Ejemplo13
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :="C:/Users/UAH/Documents/Estructuras de datos/EstructuraDeDatosCloud"
-ProjectPath            :="C:/Users/UAH/Documents/Estructuras de datos/EstructuraDeDatosCloud/Ejemplo12"
+WorkspacePath          :=C:/Users/UAH/Documents/Estructuras_de_datos/EstructuraDeDatosCloud
+ProjectPath            :=C:/Users/UAH/Documents/Estructuras_de_datos/EstructuraDeDatosCloud/Ejemplo12
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo12
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=UAH
-Date                   :=10/4/2024
-CodeLitePath           :="C:/Users/UAH/Documents/Estructuras de datos/Codelite/codelite-amd64-17.0.0/codelite-amd64-17.0.0/codelite"
+Date                   :=10/28/2024
+CodeLitePath           :=C:/Users/UAH/Documents/Estructuras_de_datos/Codelite/codelite-amd64-17.0.0/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
 SharedObjectLinkerName :=g++ -shared -fPIC
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/UAH/Documents/Estructuras de datos/EstructuraDeDatosCloud/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/UAH/Documents/Estructuras_de_datos/EstructuraDeDatosCloud/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,12 +96,12 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/Persona.cpp$(ObjectSuffix): Persona.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/UAH/Documents/Estructuras de datos/EstructuraDeDatosCloud/Ejemplo12/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/UAH/Documents/Estructuras_de_datos/EstructuraDeDatosCloud/Ejemplo12/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix): Persona.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix) Persona.cpp
 
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/UAH/Documents/Estructuras de datos/EstructuraDeDatosCloud/Ejemplo12/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/UAH/Documents/Estructuras_de_datos/EstructuraDeDatosCloud/Ejemplo12/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

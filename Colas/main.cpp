@@ -7,6 +7,7 @@ int main(int argc, char **argv)
 	Persona a = new Persona(20);
 	
 	
+	
     cola.insertar(1);
    /* cola.insertar(2);
     cola.insertar(3);
